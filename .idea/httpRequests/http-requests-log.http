@@ -1,9 +1,0 @@
-GET https://source.unsplash.com/user/c_v_r/1900x800
-User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.5
-Accept-Encoding: br, deflate, gzip, x-gzip
-Accept: */*
-
-<> 2025-04-02T051115.404.html
-
-###
-
